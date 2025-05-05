@@ -11,7 +11,7 @@
 </head>
 <body<body style="overflow-y:hidden;">style="overflow-y:hidden;">
 <divclass="panel">
-    【M3U8调用】<a href="/sdlw7757/dp/?url=">【M3U8调用】</a>
+    【M3U8调用】<a href="sdlw7757/dp/?url=">【M3U8调用】</a>
     【VIP云解析】<a href="https://jx.xmflv.com/?url=">【VIP云解析】</a>
     【DPlayer】<a href="javascript:QQ('dp/?url=<?php echo $_GET["url"]; ?>')">【DPlayer】</a> 
     <a href="javascript:QQ('dp2/?url=<?php echo $_GET["url"]; ?>')">【DP-P2P】</a>
